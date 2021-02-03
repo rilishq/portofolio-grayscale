@@ -15,7 +15,7 @@ const ContactInformation = () =>
       </li>
       <li>
         <h3>Email</h3>
-        <a href="/#">user@untitled.tld</a>
+        <a href="/#">rilishq@gmail.com</a>
       </li>
       <li>
         <h3>Phone</h3>
